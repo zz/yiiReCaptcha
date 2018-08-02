@@ -2,7 +2,7 @@
 class ReCaptcha extends CInputWidget
 {
 
-    const JS_API_URL  = 'https://www.google.com/recaptcha/api.js';
+    const JS_API_URL  = 'https://www.recaptcha.net/recaptcha/api.js';
     const THEME_LIGHT = 'light';
     const THEME_DARK  = 'dark';
     const TYPE_IMAGE  = 'image';
